@@ -1,0 +1,33 @@
+body {
+	font-family: 'Lily Script One', sans-script;
+}
+
+.navbar-brand {
+	font-family: 'Lily Script One', sans-script;
+}
+
+.menu-items {
+	padding-top: 13px;
+	font-family: 'Poller One', sans-script;
+}
+
+.content {
+	font-family: 'Poller One', sans-script;
+	margin-top: 120px;
+}
+
+h1 {
+	font-family: 'Poller One', sans-script;
+}
+
+h2 {
+	font-family: 'Poller One', sans-script;
+}
+
+p {
+	font-family: 'Varela Round', sans-script;
+}
+
+#copyright {
+	margin-top: 100px;
+}

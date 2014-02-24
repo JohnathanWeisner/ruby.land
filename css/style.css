@@ -1,7 +1,11 @@
+html {
+	height: 100%;
+	background: url(C:/Sites/ruby.land/img/background.jpg) no-repeat center center;
+	background-size: cover;
+}
 body {
 	font-family: 'News Cycle', sans-serif;
 	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jpg') repeat;
 }
 
 a {
