@@ -1,5 +1,5 @@
 body {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'News Cycle', sans-serif;
 	color: #FAF3BC;
 	background: #420600 url('img/bg-texture.jpg') repeat;
 }
@@ -10,11 +10,13 @@ a {
 }
 
 h1 {
+	font-family: 'Poller One', sans-serif;
 	font-size: 1.750em;
 	letter-spacing: -1.5px;
 }
 
 h2 {
+	font-family: 'Poller One', sans-serif;
 	font-size: 1.500em;
 	color: #B4C34F;
 }
